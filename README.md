@@ -29,3 +29,8 @@
 - 협업 과정에서 **효율적인 의사소통과 코드 리뷰**의 중요성을 배울 수 있었습니다.
 
 ---
+
+## 📄 프로젝트 발표 자료
+[구글 드라이브로 이동](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=drive_link)
+
+---
