@@ -32,6 +32,6 @@
 ---
 
 ## 📄 프로젝트 자료
-[구글 드라이브로 이동](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=drive_link)
+[구글 드라이브로 이동](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=sharing)
 
 ---
