@@ -1,37 +1,55 @@
 # Noidi
 
-### 🎮 한국 애니메이션 고등학교 게임 박람회 프로젝트 (고등학교 졸업작품)
+### 🎮 Game Expo Project at Korea Animation High School  
+*(High School Graduation Project)*
 
 ---
 
-## 📌 프로젝트 개요
-- **게임 장르**:  로프 액션을 활용한 **온라인 멀티플레이 액션 게임**
-- **개발 기간**: 약 6개월
-- **목표**: 팀장이자 선배로써 후배들을 이끌어 게임을 완성하기
-- **특징**: **장기 팀 프로젝트**
+## 📌 Project Overview
+- **Game Genre**: Online Multiplayer Action Game featuring rope-based movement mechanics
+- **Development Period**: Approximately 6 Months
+- **Goal**: To lead junior team members as both team leader and senior developer to successfully complete the game
+- **Feature**: Long-term collaborative team project
 
 ---
 
-## 🔑 주요 기술 사항
-- **Unity**: 게임 엔진
-- **C#**: 게임 프로그래밍 언어
-- **GitHub**: 소스 관리 및 협업
-- **Photon**: 실시간 멀티플레이 구현
+## 🔑 Key Technologies
+
+- **Unity**
+  - Game engine used for gameplay systems and multiplayer implementation
+
+- **C#**
+  - Core programming language used for gameplay and networking systems
+
+- **GitHub**
+  - Used for source control and team collaboration
+
+- **Photon**
+  - Implemented real-time multiplayer networking
+  - Managed player synchronization and online gameplay systems
 
 ---
 
-## 🤔 느낀점과 배운점
-- **팀장, 기획자, 프로그래머** 역할을 모두 수행하며 프로젝트를 주도했습니다.
-- 후배들과 협업하며 **Unity와 게임 프로그래밍**을 가르치는 색다른 경험을 했습니다.
-- **서버 개발**과 **로프 액션 구현**을 담당했으며, 다른 기능은 팀원들에게 작업을 분배했습니다.
-- 처음 사용한 **Photon**은 공식 문서와 구글, 유튜브를 참고해 시행착오 끝에 구현했습니다.
-- 선배로서 팀에 참여해 후배들의 코드를 고치고 새로운 지식을 가르치는 과정에서 많은 시간을 투자했습니다.
-- 배우는 입장에서 가르치는 입장으로 변해보니 신기하고 뜻깊은 경험이었습니다.
-- 협업 과정에서 **효율적인 의사소통과 코드 리뷰**의 중요성을 배울 수 있었습니다.
+## 🤔 What I Learned
+
+- Led the project while taking on the roles of team leader, game designer, and programmer.
+
+- Collaborating with junior students gave me a unique experience teaching Unity and game programming concepts.
+
+- I was responsible for server development and rope action mechanics, while distributing other tasks among team members.
+
+- Since Photon was my first multiplayer networking solution, I learned it through official documentation, Google searches, and YouTube tutorials after many trials and errors.
+
+- As a senior team member, I spent a significant amount of time reviewing junior developers’ code and teaching them new technical concepts.
+
+- Transitioning from being a learner to becoming a mentor was both meaningful and memorable.
+
+- Through collaboration, I learned the importance of effective communication, teamwork, and code review processes in game development.
 
 ---
 
-## 📄 프로젝트 자료
-[구글 드라이브로 이동](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=sharing)
+## 📄 Project Resources
+
+- [Google Drive Resources](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=sharing)
 
 ---
