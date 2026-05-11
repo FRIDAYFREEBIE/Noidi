@@ -50,6 +50,6 @@
 
 ## 📄 Project Resources
 
-- [Google Drive Resources](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=sharing)
+- [Google Drive](https://drive.google.com/drive/folders/1hDXwdebpfz0goHYTJBXPulKvjm7bgCsk?usp=sharing)
 
 ---
